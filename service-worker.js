@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.9b7fc5146747a2c0227908735e0a2527.js"
+  "/precache-manifest.b6899a363db8aaa83e45729dc0aba029.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "deskcontrol"});
